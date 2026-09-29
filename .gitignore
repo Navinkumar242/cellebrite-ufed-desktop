@@ -1,7 +1,0 @@
-env/
-.pytest_cache/
-.venv/
-*.py[cod]
-dist/
-venv/
-.mypy_cache/
