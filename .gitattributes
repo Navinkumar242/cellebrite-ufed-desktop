@@ -1,0 +1,10 @@
+*.map linguist-generated
+
+*.bat text eol=crlf   
+*.woff binary
+*.woff2 binary
+*.py linguist-detectable
+**/*.py linguist-detectable
+*.yml linguist-detectable=false
+
+*.html linguist-vendored
